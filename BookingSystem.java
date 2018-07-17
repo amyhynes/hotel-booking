@@ -19,7 +19,6 @@ public class BookingSystem {
   
   public static void main(String[] args){ 
     //Student Name: Amy Hynes
-    //Student Number: 260716296
     
     // initializing a string of rooms
     int numberOfRooms = getRandomNumberOfRooms();
