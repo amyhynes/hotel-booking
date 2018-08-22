@@ -22,17 +22,17 @@ public class Room {
   
   // returns the type of the room
   public String getType() {
-    return this.type; 
+    return type; 
   }
   
   // returns the price of the room
   public double getPrice() {
-    return this.price; 
+    return price; 
   }
   
   // returns the availability of the room
   public boolean getAvailability() {
-    return this.availability; 
+    return availability; 
   }
   
   // changes the availability of the room
