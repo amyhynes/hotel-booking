@@ -10,11 +10,11 @@ public class Reservation {
   
   // returns the name of the person who made the reservation
   public String getName() {
-    return this.name; 
+    return name; 
   }
   
   // returns the room that has been reserved
   public Room getRoom() {
-    return this.roomReserved; 
+    return roomReserved; 
   }
 }
