@@ -1,2 +1,2 @@
 # hotel-booking
-a java program for a hotel booking system
+A java program to simulate a hotel booking system
